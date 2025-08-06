@@ -1,0 +1,19 @@
+# Dépendances
+node_modules/
+
+# Rapports de tests Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Fichiers d'environnement sensibles
+.env
+
+# Fichiers de logs
+*.log
+
+# Dossiers et fichiers d’IDE
+.vscode/
+.idea/
+.DS_Store
